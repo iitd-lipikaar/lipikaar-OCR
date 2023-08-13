@@ -1,8 +1,12 @@
-import argparse
 import torch
+import argparse
+import unicodedata
 from PIL import Image
 from strhub.data.module import SceneTextDataModule
 from strhub.models.utils import load_from_checkpoint
+
+def normalize_text(text):
+    return unicodedata.normalize('NFD', text)
 
 def load(img, model_path, img_path):
     print('Model Path: ', model_path)
@@ -36,4 +40,5 @@ if __name__ == "__main__":
     img = Image.open(img_path).convert('RGB')
 
     text = load(img, model_path, img_path)
-    print(text)
+    text = normalize_text(text)
+    print('Output: ' + text)
