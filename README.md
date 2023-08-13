@@ -21,9 +21,10 @@ Python version 3.9.0 is recommended
 ```
 python run.py --model_path /path/to/model.ckpt --image_path /path/to/image.jpg
 ```
+
 ## Citation
-This repository contains code related to the paper **UTRNet**.
-If you feel the code related to Urdu is helpful, please feel free to cite:
+This repository contains code related to the paper **UTRNet**. [![arXiv](https://img.shields.io/badge/arXiv-2306.15782-darkred.svg)](https://arxiv.org/abs/2306.15782)
+If the code related to Urdu is helpful, please cite the paper:
 ```
 @article{rahman2023utrnet,
       title={UTRNet: High-Resolution Urdu Text Recognition In Printed Documents}, 
