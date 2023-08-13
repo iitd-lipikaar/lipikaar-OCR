@@ -11,7 +11,7 @@ Model checkpoints can be downloaded from this [link](https://csciitd-my.sharepoi
 5. **Assamese OCR**</br>
 6. **Urdu OCR***</br>
 
-**Built on an architecture distinct from the rest, aiming for enhanced accuracy.*
+**Built on an architecture distinct from the rest, aiming for enhanced accuracy. Refer to Urdu folder for more details.*
       
 ## Convert mdb files to images
 [check_lmdb_to_jpg.py](check_lmdb_to_jpg.py) file can be used to convert mdb files to images. (Path to mdb folder consists of data.mdb and lock.mdb files)
