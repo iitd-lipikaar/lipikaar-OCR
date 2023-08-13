@@ -9,7 +9,9 @@ Model checkpoints can be downloaded from this [link](https://csciitd-my.sharepoi
 3. **Tamil OCR**</br>
 4. **Hindi OCR**</br>
 5. **Assamese OCR**</br>
-6. **Urdu OCR** (For Urdu we have a seperate GitHub repo: [UTRNet](https://github.com/abdur75648/UTRNet-High-Resolution-Urdu-Text-Recognition))</br>
+6. **Urdu OCR***</br>
+
+**Based on a different architecture than others, for higher accuracy.*
       
 ## Convert mdb files to images
 [check_lmdb_to_jpg.py](check_lmdb_to_jpg.py) file can be used to convert mdb files to images. (Path to mdb folder consists of data.mdb and lock.mdb files)
