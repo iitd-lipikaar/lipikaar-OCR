@@ -23,7 +23,7 @@ python run.py --model_path /path/to/model.ckpt --image_path /path/to/image.jpg
 ```
 
 ## Citation
-This repository contains code related to the paper **UTRNet**. [![arXiv](https://img.shields.io/badge/arXiv-2306.15782-darkred.svg)](https://arxiv.org/abs/2306.15782)
+This repository contains code related to the paper **UTRNet**. [![arXiv](https://img.shields.io/badge/arXiv-2306.15782-darkred.svg)](https://arxiv.org/abs/2306.15782)</br>
 If the code related to Urdu is helpful, please cite the paper:
 ```
 @article{rahman2023utrnet,
