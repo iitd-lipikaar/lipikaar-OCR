@@ -9,7 +9,8 @@ Model checkpoints can be downloaded from this [link](https://csciitd-my.sharepoi
 3. **Tamil OCR**</br>
 4. **Hindi OCR**</br>
 5. **Assamese OCR**</br>
-6. **Urdu OCR***</br>
+6. **Gujarati OCR**</br>
+7. **Urdu OCR***</br>
 
 **Built on an architecture distinct from the rest, aiming for enhanced accuracy. Refer to Urdu folder for more details.*
       
