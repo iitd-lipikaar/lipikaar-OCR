@@ -15,7 +15,8 @@ Model checkpoints can be downloaded from this [link](https://csciitd-my.sharepoi
 9. **Malayalam OCR**</br>
 10. **Bengali OCR**</br>
 11. **Oriya OCR**</br>
-12. **Urdu OCR**</br>
+12. **Marathi OCR**</br>
+13. **Urdu OCR**</br>
 
       
 ## Convert mdb files to images
