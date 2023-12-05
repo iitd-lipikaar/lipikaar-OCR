@@ -1,6 +1,6 @@
 # Lipikaar-OCR
 
-All models uploaded currently support **Printed Text** datasets. [run.py](run.py) can be modified to execute on multiple instances.
+All models uploaded currently support **Printed Text** as well as **Scene Text** data. [run.py](run.py) can be modified to execute on multiple instances.
 
 ## Models that are currently available:
 Model checkpoints can be downloaded from this [link](https://csciitd-my.sharepoint.com/:f:/g/personal/agarai_cstaff_iitd_ac_in/EpB6Cr98expDnB78qsdb4WEBTF1-MzKDqZvc-ARkaug9Wg?e=ADBnhb).</br>
