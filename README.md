@@ -4,6 +4,7 @@ All models uploaded currently support **Printed Text** as well as **Scene Text**
 
 ## Models that are currently available:
 Model checkpoints can be downloaded from this [link](https://csciitd-my.sharepoint.com/:f:/g/personal/agarai_cstaff_iitd_ac_in/EpB6Cr98expDnB78qsdb4WEBTF1-MzKDqZvc-ARkaug9Wg?e=ADBnhb).</br>
+We support the following languages:</br>
 1. **English OCR**
 2. **Kannada OCR**</br>
 3. **Tamil OCR**</br>
@@ -16,7 +17,8 @@ Model checkpoints can be downloaded from this [link](https://csciitd-my.sharepoi
 10. **Bengali OCR**</br>
 11. **Oriya OCR**</br>
 12. **Marathi OCR**</br>
-13. **Urdu OCR**</br>
+13. **Manipuri OCR**</br>
+14. **Urdu OCR**</br>
 
       
 ## Convert mdb files to images
